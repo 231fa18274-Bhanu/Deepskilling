@@ -1,0 +1,16 @@
+# Visual Studio / VS Code / Rider build outputs & temp files
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.user
+*.userosv
+*.suo
+*.userprefs
+.idea/
+*.nupkg
+*.snupkg
+
+# OS generated files
+.DS_Store
+Thumbs.db
